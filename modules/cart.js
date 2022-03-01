@@ -79,11 +79,11 @@ function testaSomFan(productArray){
 
         }
     }
-    const hpKnappen = document.querySelector(".wazzaaap0");
-    const msiKatKnappen = document.querySelector(".wazzaaap1")
-    const msiGPKnappen = document.querySelector(".wazzaaap2")
-    const lenovoKnappen = document.querySelector(".wazzaaap3")
-    const myAsusRogKnappen = document.querySelector(".wazzaaap4")
+    const hpKnappen = document.querySelector("#wazzaaap0");
+    const msiKatKnappen = document.querySelector("#wazzaaap1")
+    const msiGPKnappen = document.querySelector("#wazzaaap2")
+    const lenovoKnappen = document.querySelector("#wazzaaap3")
+    const myAsusRogKnappen = document.querySelector("#wazzaaap4")
 
     
     const hpCart = new bjCart(
